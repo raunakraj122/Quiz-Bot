@@ -1,4 +1,4 @@
-# Report Bot
+# Quiz Bot
 
 Quiz Bot is a Discord Bot created with Discord Api <a href="https://discord.com/developers/docs/intro">Discord Developer Portal</a>
 
@@ -70,9 +70,9 @@ npm install node-fetch
     <li>Copy the bot token</li>
     <li>Go to your code, open `./config.json` and paste the token there</li>
     <li>Also fill all other things in the config file!</li>
+</ul>
 
 ⚠ Remember not to make any changes on opentdb api links!
-</ul>
 
 3. Startup
 
