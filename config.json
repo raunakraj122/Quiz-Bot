@@ -1,0 +1,16 @@
+{
+    "token": "NzczODQwMTQzNjU1MzcwNzYy.X6PEyw.bHwf73b0Gihy2HGoX27hz8UMfl4",
+    "botname": "Experiment Bot",
+    "PREFIX": "!",
+    "thumbnailurl": "https://media.discordapp.net/attachments/750724808916074551/763699035168047144/reddit.png?width=671&height=671",
+
+
+
+
+    
+    "quiz_general": "https://opentdb.com/api.php?amount=5&category=9&type=boolean",
+    "quiz_science_computer": "https://opentdb.com/api.php?amount=5&category=18&type=boolean",
+    "quiz_sports": "https://opentdb.com/api.php?amount=5&category=21&type=boolean",
+    "quiz_anime": "https://opentdb.com/api.php?amount=5&category=31&type=boolean",
+    "quiz_random": "https://opentdb.com/api.php?amount=5&type=boolean"
+}
