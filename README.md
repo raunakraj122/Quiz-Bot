@@ -10,7 +10,7 @@ It interacts with user, asking different quiz question of different categories!
 
 ## How Does it work?
 
-The bot, when you run the command, redirects to <a href="https://opentdb.com"> Opentdb Api </a>, and fetche questions and lets the user react with [✅, ❌], where the bot check if the reaction/answer is correct or not!
+The bot, when you run the command, redirects to <a href="https://opentdb.com"> Opentdb Api </a>, and fetch questions and lets the user react with [✅, ❌], where the bot check if the reaction/answer is correct or not!
 
 ## What are the commands?
 
